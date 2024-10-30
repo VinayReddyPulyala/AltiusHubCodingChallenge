@@ -1,0 +1,27 @@
+[
+    {
+        "Id": "ED4567890",
+        "Date": "30-10-2024",
+        "InvoiceNumber": 1,
+        "CustomerName": "Pullayya",
+        "BillingAddress": "Hyderabad",
+        "ShippingAddress": "Nalgonda",
+        "GSTIN": "22AAAAA0000a1Z5",
+        "Items": [
+            {
+                "id": "12",
+                "ItemName": "Item1",
+                "Quantity": 2,
+                "Price": 100000,
+                "amount": 200000
+            }
+        ],
+        "BillSundreys": [
+            {
+                "Id": 1,
+                "BillSundryName": "BillSundry1",
+                "amount": 456789
+            }
+        ]
+    }
+]
